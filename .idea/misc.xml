@@ -3,9 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/drawable/ic_analisisfinanciero.xml" value="0.1635" />
+        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/drawable/ic_fondo.xml" value="0.1" />
+        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/drawable/ic_virrete.xml" value="0.1635" />
+        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/layout/activity_poput.xml" value="0.264" />
         <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/layout/activity_splash_screen.xml" value="0.136" />
+        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/layout/fragment_academia.xml" value="0.3403225806451613" />
         <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/layout/fragment_dashboard.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/layout/fragment_estado.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/layout/fragment_manage.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/layout/fragment_perfil.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/Users/intej/Documents/Bullfin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
       </map>
     </option>
   </component>

@@ -16,8 +16,10 @@ class SplashScreen : AppCompatActivity() {
         binding = ActivitySplashScreenBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.lottieAnimation.setAnimation(R.raw.splashimage)
+        binding.lottieAnimation.setAnimation(R.raw.toro)
+        binding.lottieAnimation.setSpeed(1F)
         binding.lottieAnimation.playAnimation()
+
 
 
         handler= Handler(Looper.myLooper()!!)
@@ -25,6 +27,6 @@ class SplashScreen : AppCompatActivity() {
             val intent = Intent(this,MainActivity::class.java)
             startActivity(intent)
             finish()
-        },5000)
+        },4000)
     }
 }

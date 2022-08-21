@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.Bullfin" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.Bullfin" parent="Theme.AppCompat.Light">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/Verde</item>
         <item name="colorPrimaryVariant">@color/VerdeDark</item>
@@ -12,5 +12,8 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+    </style>
+    <style name="NoActionBar" parent="Theme.AppCompat.Light">
+        <item name="android:windowNoTitle">true</item>
     </style>
 </resources>
